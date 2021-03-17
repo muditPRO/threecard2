@@ -43,7 +43,7 @@ function dothis()
      }
      var a1=i;
     //  console.log(t);
-    var x="/cards/"+i+t+".png"
+    var x=i+t+".png"
     console.log(x);
 
     document.getElementById('img').src=x;
@@ -75,7 +75,7 @@ function dothis()
      }
      var a2=m;
     //  console.log(t);
-    var x="/cards/"+m+t+".png"
+    var x=m+t+".png"
     console.log(x);
 
     document.getElementById('img2').src=x;
@@ -105,7 +105,7 @@ function dothis()
      }
      var a3=m;
     //  console.log(t);
-    var x="/cards/"+m+t+".png"
+    var x=m+t+".png"
     console.log(x);
 
     document.getElementById('img3').src=x;
@@ -142,7 +142,7 @@ function dothis()
      }
      var b1=i;
     //  console.log(t);
-    var x="/cards/"+i+t+".png"
+    var x=i+t+".png"
     console.log(x);
 
     document.getElementById('Bimg').src=x;
@@ -174,7 +174,7 @@ function dothis()
      }
      var b2=m;
     //  console.log(t);
-    var x="/cards/"+m+t+".png"
+    var x=m+t+".png"
     console.log(x);
 
     document.getElementById('Bimg2').src=x;
@@ -204,7 +204,7 @@ function dothis()
      }
      var b3=m;
     //  console.log(t);
-    var x="/cards/"+m+t+".png"
+    var x=m+t+".png"
     console.log(x);
 
     document.getElementById('Bimg3').src=x;
